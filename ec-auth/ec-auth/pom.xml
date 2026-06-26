@@ -59,7 +59,6 @@
 		</dependency>
 
 
-
         <!-- JWT API -->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
